@@ -1,0 +1,7 @@
+.wrapper-form{
+    display: grid;
+}
+
+.form-content{
+    place-self: center;
+}
